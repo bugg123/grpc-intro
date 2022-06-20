@@ -11,4 +11,5 @@ message Memory {
         GIGABYTE = 5;
         TERABYTE = 6;
       }
+      Unit unit = 1;
   }
